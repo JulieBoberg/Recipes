@@ -5,20 +5,47 @@
     <link>https://julieboberg.github.io/Recipes/tags/</link>
     <description>Recent content in Tags on Family Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 04 Jan 2023 15:38:03 -0800</lastBuildDate><atom:link href="https://julieboberg.github.io/Recipes/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Jan 2023 10:42:03 -0800</lastBuildDate><atom:link href="https://julieboberg.github.io/Recipes/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bread</title>
+      <link>https://julieboberg.github.io/Recipes/tags/bread/</link>
+      <pubDate>Tue, 24 Jan 2023 10:42:03 -0800</pubDate>
+      
+      <guid>https://julieboberg.github.io/Recipes/tags/bread/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Everyday</title>
+      <link>https://julieboberg.github.io/Recipes/tags/everyday/</link>
+      <pubDate>Tue, 24 Jan 2023 10:42:03 -0800</pubDate>
+      
+      <guid>https://julieboberg.github.io/Recipes/tags/everyday/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Christmas</title>
       <link>https://julieboberg.github.io/Recipes/tags/christmas/</link>
-      <pubDate>Wed, 04 Jan 2023 15:38:03 -0800</pubDate>
+      <pubDate>Tue, 24 Jan 2023 10:35:37 -0800</pubDate>
       
       <guid>https://julieboberg.github.io/Recipes/tags/christmas/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Cookies</title>
+      <link>https://julieboberg.github.io/Recipes/tags/cookies/</link>
+      <pubDate>Tue, 24 Jan 2023 10:35:37 -0800</pubDate>
+      
+      <guid>https://julieboberg.github.io/Recipes/tags/cookies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Holidays</title>
       <link>https://julieboberg.github.io/Recipes/tags/holidays/</link>
-      <pubDate>Wed, 04 Jan 2023 15:38:03 -0800</pubDate>
+      <pubDate>Tue, 24 Jan 2023 10:35:37 -0800</pubDate>
       
       <guid>https://julieboberg.github.io/Recipes/tags/holidays/</guid>
       <description></description>
@@ -27,9 +54,18 @@
     <item>
       <title>Sweets</title>
       <link>https://julieboberg.github.io/Recipes/tags/sweets/</link>
-      <pubDate>Wed, 04 Jan 2023 15:38:03 -0800</pubDate>
+      <pubDate>Tue, 24 Jan 2023 10:35:37 -0800</pubDate>
       
       <guid>https://julieboberg.github.io/Recipes/tags/sweets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dinner</title>
+      <link>https://julieboberg.github.io/Recipes/tags/dinner/</link>
+      <pubDate>Tue, 24 Jan 2023 10:30:02 -0800</pubDate>
+      
+      <guid>https://julieboberg.github.io/Recipes/tags/dinner/</guid>
       <description></description>
     </item>
     
@@ -39,15 +75,6 @@
       <pubDate>Wed, 04 Jan 2023 14:58:25 -0800</pubDate>
       
       <guid>https://julieboberg.github.io/Recipes/tags/new-year/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cookies</title>
-      <link>https://julieboberg.github.io/Recipes/tags/cookies/</link>
-      <pubDate>Wed, 04 Jan 2023 14:43:30 -0800</pubDate>
-      
-      <guid>https://julieboberg.github.io/Recipes/tags/cookies/</guid>
       <description></description>
     </item>
     
